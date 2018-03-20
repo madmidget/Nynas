@@ -1,0 +1,35 @@
+.headerPic {
+
+    background-image: url(../assets/images/layout/header-sky.jpg);
+    margin: 0px;
+
+}
+.min-border{
+    border-color: #69b3d0 !important;
+    border-radius: 12px !important;
+    border-width: 5px 2px 2px 2px !important;
+    box-shadow: 8px 12px 43px 12px #ffff; 
+}
+
+
+footer a {
+    color: orange;
+    text-decoration: none;
+}
+
+footer p {
+ color: #999;
+    
+}
+
+
+
+
+
+
+              
+    
+
+
+
+    
